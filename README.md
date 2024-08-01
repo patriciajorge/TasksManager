@@ -1,8 +1,8 @@
-#TasksManager
+## TasksManager
 
 Um gerenciador de tarefas simples baseado em linha de comando que utiliza um banco de dados SQLite para armazenar e gerenciar suas tarefas. Ele oferece uma interface de menu interativa, permitindo adicionar, visualizar, marcar como concluídas e remover tarefas.
 
-#Funcionalidades
+## Funcionalidades
 
 - Exibir Tarefas: Mostra todas as tarefas cadastradas, indicando se estão concluídas ou pendentes.
 - Adicionar Tarefas: Permite ao usuário adicionar uma nova tarefa com uma descrição.
