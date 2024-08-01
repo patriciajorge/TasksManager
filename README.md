@@ -27,4 +27,4 @@ Um gerenciador de tarefas simples baseado em linha de comando que utiliza um ban
    python app.py
    ```
    
-3. Se preferir, baixe e execute o executável `app.exe` que se encontra na tag
+3. Se preferir, baixe e execute o executável `app.exe` que se encontra na `Tags`
